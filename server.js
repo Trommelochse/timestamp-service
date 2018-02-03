@@ -2,7 +2,7 @@ var express = require('express')
 var app = express()
 
 app.get("/", (req, res) => {
-  res.send('please provide a time to process')
+  res.send('Please provide a valid string to process.')
 })
 
 app.get("/:timeString", (req, res) => {
