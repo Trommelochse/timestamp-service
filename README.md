@@ -1,1 +1,1 @@
-## Micro Timestamp Service
+## Timestamp Service
